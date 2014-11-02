@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("again");
 		System.out.println("third time");
 		System.out.println("last");
+		System.out.println("hallo");
 	}
 }
